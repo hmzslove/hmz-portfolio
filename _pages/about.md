@@ -19,3 +19,6 @@ I am a **California-licensed Structural Engineer (S.E., P.E.)** committed to adv
 - **BIM-based tools** for **low-budget, sustainable projects**
 - **IoT-integrated seismic risk assessment**
 - **Construction waste reduction & green certifications**
+
+[View My Projects](/projects)
+

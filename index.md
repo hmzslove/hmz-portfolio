@@ -17,3 +17,5 @@ I am a licensed **Structural Engineer (S.E., P.E.)** specializing in **sustainab
 - **Seismic risk assessment & predictive maintenance**
 
 Explore my **projects**, **research**, and **innovations** in the field of structural engineering.
+
+[Learn More About Me](/about)

@@ -19,3 +19,5 @@ permalink: /research/
 ## **Publications & Citations**
 - **Paper Title 1** - [Journal Name], Year ([Link])
 - **Paper Title 2** - [Conference Name], Year ([Link])
+
+[Contact Me for Collaborations](/contact)

@@ -19,3 +19,5 @@ permalink: /projects/
 - Optimized **material usage, energy efficiency, and seismic safety**.
 - Integrated **LEED & SE2050 compliance checks**.
 - Applied in **public building projects** across multiple regions.
+
+[Explore My Research](/research)
