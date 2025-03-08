@@ -5,7 +5,7 @@ permalink: /
 description: "Structural Engineer Portfolio | SE2050 | Smart Retrofitting | Sustainability"
 ---
 
-## Welcome to My Portfolio
+# Welcome to My Portfolio
 
 ## **Structural Engineer | SE2050 Advocate | Smart Retrofitting**
 
@@ -17,5 +17,3 @@ I am a licensed **Structural Engineer (S.E., P.E.)** specializing in **sustainab
 - **Seismic risk assessment & predictive maintenance**
 
 Explore my **projects**, **research**, and **innovations** in the field of structural engineering.
-
-[Learn More About Me](/about)
