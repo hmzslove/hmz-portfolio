@@ -1,11 +1,14 @@
 ---
-layout: default
+layout: home
+classes:
+    - landing
+    - home
 title: "Home"
 permalink: /
 description: "Structural Engineer Portfolio | SE2050 | Smart Retrofitting | Sustainability"
 ---
 
-# Welcome to My Portfolio
+# Welcome to My Website
 
 ## **Structural Engineer | SE2050 Advocate | Smart Retrofitting**
 
