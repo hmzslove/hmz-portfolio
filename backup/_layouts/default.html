@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ site.title }}</title>
+    <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+    <script src="{{ '/assets/js/dark-mode.js' | relative_url }}" defer></script>
+</head>
+<body>
+    <header>
+        <nav>
+            <div class="logo">#</div>
+            <ul>
+                <li><a href="/">Home</a></li>
+                <li><a href="/projects">Projects</a></li>
+                <li><a href="/blog">Blog</a></li>
+                <li><a href="/about">About</a></li>
+                <li><a href="/contact">Contact</a></li>
+                <li><button id="dark-mode-toggle">🌙</button></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section class="hero">
+        <div class="container">
+            <h1>Curate is a premium portfolio for Jekyll.</h1>
+            <p>Showcase your projects, work, or case studies in style with this markdown-powered portfolio theme.</p>
+        </div>
+    </section>
+
+    <section class="projects">
+        <div class="container">
+            <div class="grid">
+                <div class="project">
+                    <img src="/assets/images/brightstar_high_school.jpg" alt="Project 1">
+                    <h3>Brutalist Office Building</h3>
+                    <p>Dubai Star</p>
+                </div>
+                <div class="project">
+                    <img src="/assets/images/project2.jpg" alt="Project 2">
+                    <h3>Water Works Revitalisation</h3>
+                    <p>Brisbane City Council</p>
+                </div>
+                <div class="project">
+                    <img src="/assets/images/project3.jpg" alt="Project 3">
+                    <h3>Cubist Urban Home</h3>
+                    <p>Region of Valencia</p>
+                </div>
+                <div class="project">
+                    <img src="/assets/images/project4.jpg" alt="Project 4">
+                    <h3>Subway</h3>
+                    <p>RGA Agency</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="recent-posts">
+        <div class="container">
+            <h2>Recent Posts</h2>
+            <div class="posts-grid">
+                <div class="post">
+                    <h3>Ideas to help your business grow</h3>
+                    <p>Branding is an intrinsic part of success.</p>
+                </div>
+                <div class="post">
+                    <h3>How to make your website load fast</h3>
+                    <p>Learn why speed optimization matters.</p>
+                </div>
+                <div class="post">
+                    <h3>Scaling design systems for teams</h3>
+                    <p>Best practices for modern design systems.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="newsletter">
+        <div class="container">
+            <h2>Let's keep in touch</h2>
+            <input type="email" placeholder="Your email address">
+            <button>Submit</button>
+        </div>
+    </section>
+
+    <footer>
+        <div class="container">
+            <p>&copy; 2025 Jekyll Curate</p>
+            <div class="footer-links">
+                <div>Our Projects: <a href="#">Project 1</a> | <a href="#">Project 2</a> | <a href="#">Project 3</a></div>
+                <div>Company: <a href="#">Blog</a> | <a href="#">About</a> | <a href="#">Contact</a></div>
+            </div>
+        </div>
+    </footer>
+</body>
+</html>
