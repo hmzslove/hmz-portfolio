@@ -1,4 +1,15 @@
 title: Big Data Structure Engineer
 author: Mengzhu He
 description: Personal Portfolio
-theme: minima
+
+include:
+  - _includes
+
+collections:
+  pages:
+    output: true
+
+remote_theme: pages-themes/architect@v0.2.0
+
+
+  

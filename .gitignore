@@ -1,3 +1,15 @@
+# Jekyll
+_site
+.sass-cache
+.jekyll-metadata
+.jekyll-cache
+
+# Ruby
+Gemfile.lock
+Gemfile
+.bundle
+vendor
+
 # Compiled source #
 ###################
 *.com

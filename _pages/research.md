@@ -1,7 +1,6 @@
 ---
-layout: page
 title: "Research & Publications"
-permalink: /research/
+permalink: /research
 ---
 
 # **Research & Publications**
