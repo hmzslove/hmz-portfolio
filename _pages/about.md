@@ -19,28 +19,21 @@ I am a **California-licensed Structural Engineer (S.E., P.E.)** committed to adv
 - **Smart Retrofitting** with **CLT & FRP** for historical and cultural buildings
 - **BIM-based tools** for **low-budget, sustainable projects**
 - **IoT-integrated seismic risk assessment**
-- **Construction waste reduction & green certifications**
 
 ## Work Experiences
 
-#### Nous Engineering (*Los Angeles, CA*), Senior Project Engineer<span style="float: right;">*Feb, 2022 - Present*</span>
-<br>
+**Nous Engineering (*Los Angeles, CA*)**, Senior Project Engineer<span style="float: right;">*Feb, 2022 - Present*</span>
 
-#### LPA Design Studio (*Irvine, CA*), Project Engineer <span style="float: right;">*Feb, 2021- Feb,2022*</span>
-<br>
+**LPA Design Studio (*Irvine, CA*)**, Project Engineer<span style="float: right;">*Feb, 2021- Feb,2022*</span>
 
-#### HSA&Associates Consulting Engineers (West Covina, CA), Project Engineer <span style="float: right;">*Oct, 2020 - Jan,2021*</span>
-<br>
+**HSA&Associates Consulting Engineers (West Covina, CA)**, Project Engineer <span style="float: right;">*Oct, 2020 - Jan,2021*</span>
 
-#### Saiful Bouquet Structural Engineers (Pasadena, CA), Senior Engineer <span style="float: right;">*Jan, 2018-Oct, 2020*</span>
-<br>
+**Saiful Bouquet Structural Engineers (Pasadena, CA)**, Senior Engineer <span style="float: right;">*Jan, 2018-Oct, 2020*</span>
 
-#### Archer Daniel Midland Company Design Services (Decatur, IL), Project Engineer <span style="float: right;">*Jan, 2015-Jan.2018*</span>
-<br>
+**Archer Daniel Midland Company Design Services (Decatur, IL)**, Project Engineer <span style="float: right;">*Jan, 2015-Jan.2018*</span>
 
 ## Projects Overview
-[View My Projects](/projects)
-<br>
+
  - Durant Drive Commercial Building <span style="float: right;">*Beverly Hills, CA*</span>
  - American Cement Building Retrofit <span style="float: right;">Los Angeles, CA</span>
  - Log Cabin Refurbishment <span style="float: right;">West Hollywood, CA</span>
