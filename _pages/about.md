@@ -1,10 +1,9 @@
 ---
-layout: splash
+layout: single
 title: "About Me"
 permalink: /about
+author_profile: true
 ---
-
-# About Me
 
 I am a **California-licensed Structural Engineer (S.E., P.E.)** committed to advancing **sustainable and resilient infrastructures**. My focus is on **SE2050, predictive maintenance, and smart retrofitting techniques.**
 

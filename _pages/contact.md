@@ -1,13 +1,12 @@
 ---
-layout: default
-title: "Contact"
+layout: single
+title: "Contact Me"
 permalink: /contact
+author_profile: true
 ---
-
-# **Contact Me**
 
 I am always open to discussing **collaborations, research opportunities, and innovative projects**.
 
-- **Email:** [your.email@example.com]
-- **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-- **GitHub:** [github.com/yourusername](https://github.com/yourusername)
+- **Email:** [hmzslovewhu@gmail.com](mailto:hmzslovewhu@gmail.com)
+- **LinkedIn:** [https://www.linkedin.com/hmz](https://www.linkedin.com/in/mengzhu-he-s-e-77777484/)
+- **GitHub:** [https://github.com/hmzslove](https://github.com/hmzslove)

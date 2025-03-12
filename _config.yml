@@ -16,7 +16,7 @@
 # Use this if you're using GitHub Pages and have the theme in a remote repository
 remote_theme           : "mmistakes/minimal-mistakes"
 
-minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
@@ -117,9 +117,8 @@ analytics:
 author:
   name             : *myName
   avatar           : "/assets/images/hmz.jpg"
-  bio              : "I am an **amazing** person."
+  bio              : ""
   location         : "Los Angeles, CA"
-  email            : "hmzslovewhu@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -130,9 +129,9 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/hmzslove"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+    # - label: "LinkedIn"
+    #   icon: "fab fa-fw fa-linkedin"
+    #   url: "https://instagram.com/"
 
 # Site Footer
 footer:
