@@ -13,7 +13,7 @@ feature_row:
     title: "Los Angeles Airport Terminal 1.5"
     alt: "LAX Terminal 1.5"
     excerpt: "Lateral System, Connection Bridge & Facade"
-    url: "/projects/"
+    url: "/projects"
     btn_label: "Read More"
     btn_class: "btn--primary btn--large"
 
@@ -21,7 +21,7 @@ feature_row:
     alt: "Log Cabin Expansion & Refurbishment"
     title: "Log Cabin Expansion & Refurbishment"
     excerpt: "Historic Retrfit/Preservation and Expansion"
-    url: "/projects/"
+    url: "/projects"
     btn_label: "Read More"
     btn_class: "btn--primary btn--large"
 
@@ -29,7 +29,7 @@ feature_row:
     alt: "American Cement Building Retrofit"
     title: "American Cement Building"
     excerpt: "Existing Concrete Building Retrofit"
-    url: "/projects/"
+    url: "/projects"
     btn_label: "Read More"
     btn_class: "btn--primary btn--large"
 
