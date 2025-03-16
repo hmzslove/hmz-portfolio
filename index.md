@@ -64,5 +64,5 @@ I am a licensed **Structural Engineer (S.E., P.E.)** specializing in **sustainab
 
 Explore my **projects**, **research**, and **innovations** in the field of structural engineering.
 
-<span style="margin-right:10%;">[Learn More About Me](/about)</span>
-<span style="margin-right:10%;">[View My Projects](/projects)</span>
+<span style="margin-right:10%;">[Learn More About Me](about)</span>
+<span style="margin-right:10%;">[View My Projects](projects)</span>

@@ -91,4 +91,4 @@ bracing to enhance stiffness and reduce floor vibrations
 - Analyzed vibration design for main floors and grand stairs and designed back entrance moment frame bridge
 - Designed piles and pile caps and detailed pile schedule, sections, elevations and pile cap layout with reinforcement
 
-[Explore My Research](/research)
+[Explore My Research](research)

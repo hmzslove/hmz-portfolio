@@ -27,4 +27,4 @@ author_profile: true
 - Sensor monitoring system
 - Data Application with SHM Sensor
 
-[Contact Me for Collaborations](/contact)
+[Contact Me for Collaborations](contact)
